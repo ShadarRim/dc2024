@@ -7,11 +7,10 @@
 
 # Модуль №1 Программирования на python для машнного обучения
 
-[0] [Установочная презентация](https://github.com/ShadarRim/24MEPhIAI/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20ML%201.pptx) \
+[0] [Основы Python](https://github.com/ShadarRim/dc2024/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
 
 # Дополнительный материалы
-[0] [Как установить среду для Python(https://github.com/ShadarRim/24MEPhIAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
+[0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/00a_python_installation_guide.pdf) \
 
 # Домашнее задание
-
 [0] [Контест на Python #1](https://contest.yandex.ru/contest/69204/enter) \
