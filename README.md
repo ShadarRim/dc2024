@@ -8,10 +8,11 @@
 # Модуль №1 Программирования на python для машнного обучения
 
 [0] [Основы Python](https://github.com/ShadarRim/dc2024/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
-[1] [Основы Python 2](https://github.com/ShadarRim/dc2024/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb)
+[1] [Основы Python 2](https://github.com/ShadarRim/dc2024/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb) \
+[2] [Разбор первого контеста](https://github.com/ShadarRim/dc2024/blob/main/02_%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80_2024_%D0%A6%D0%9A_%E2%84%961_Python.ipynb)
 
 # Дополнительный материалы
-[0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/00a_python_installation_guide.pdf) \
+[0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/a00_python_installation_guide.pdf) \
 
 # Домашнее задание
 [0] [Контест на Python #1](https://contest.yandex.ru/contest/69204/enter) \
