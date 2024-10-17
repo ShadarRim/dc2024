@@ -15,7 +15,7 @@
 # Дополнительный материалы
 [0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/a00_python_installation_guide.pdf) \
 [1] [Рекурсия](https://github.com/ShadarRim/dc2024/blob/main/a01_recursion.ipynb) \
-[2] [Зачем следить за нюансами при насписании программ?](https://github.com/ShadarRim/dc2024/blob/main/a02_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC.ipynb)
+[2] [Зачем следить за нюансами при написании программ?](https://github.com/ShadarRim/dc2024/blob/main/a02_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC.ipynb)
 
 # Домашнее задание
 [0] [Контест на Python #1](https://contest.yandex.ru/contest/69204/enter) \
