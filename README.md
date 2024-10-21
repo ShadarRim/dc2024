@@ -20,7 +20,8 @@
 # Домашнее задание
 [0] [Контест на Python #1](https://contest.yandex.ru/contest/69204/enter) \
 [1] [Контест на Python #2](https://contest.yandex.ru/contest/69353/enter) \
-[2] [Очень простой контест на Python #3](https://contest.yandex.ru/contest/54856/problems/)
+[2] [Очень простой контест на Python #3](https://contest.yandex.ru/contest/54856/problems/) \
+[3] [Контест NumPy #1](https://contest.yandex.ru/contest/69818/enter)
 
 # Нобелевская неделя
 В 2024 году Нобелевскую премию по физике дали за нейронные сети, а по химии за метод генерации белков.
