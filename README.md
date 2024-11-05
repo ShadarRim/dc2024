@@ -12,7 +12,8 @@
 [2] [Разбор первого контеста](https://github.com/ShadarRim/dc2024/blob/main/02_%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80_2024_%D0%A6%D0%9A_%E2%84%961_Python.ipynb) \
 [3] [Разбор второго контеста](https://github.com/ShadarRim/dc2024/blob/main/03_%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80_2024_%D0%A6%D0%9A_%E2%84%962_Python.ipynb) \
 [4] [NumPy](https://github.com/ShadarRim/dc2024/blob/main/04_2024_%D0%A6%D0%9A_NumPy.ipynb) \
-[5] [NumPy 2](https://github.com/ShadarRim/dc2024/blob/main/05_2024_%D0%A6%D0%9A_NumPy_%E2%84%962.ipynb)
+[5] [NumPy 2](https://github.com/ShadarRim/dc2024/blob/main/05_2024_%D0%A6%D0%9A_NumPy_%E2%84%962.ipynb) \
+[6] [Pandas](https://github.com/ShadarRim/dc2024/blob/main/06_Pandas.ipynb) \
 
 # Дополнительный материалы
 [0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/a00_python_installation_guide.pdf) \
