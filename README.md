@@ -14,6 +14,11 @@
 [4] [NumPy](https://github.com/ShadarRim/dc2024/blob/main/04_2024_%D0%A6%D0%9A_NumPy.ipynb) \
 [5] [NumPy 2](https://github.com/ShadarRim/dc2024/blob/main/05_2024_%D0%A6%D0%9A_NumPy_%E2%84%962.ipynb) \
 [6] [Pandas](https://github.com/ShadarRim/dc2024/blob/main/06_Pandas.ipynb) \
+[7] [Pandas 2](https://github.com/ShadarRim/dc2024/blob/main/07_Pandas%202.ipynb) \
+[8] [Разбор контеста NumPy-простой](https://github.com/ShadarRim/dc2024/blob/main/08_%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D1%81%D1%82%D0%B0_NumPy.ipynb) \
+[9] [SciPy](https://github.com/ShadarRim/dc2024/blob/main/09_SciPy.ipynb) \
+[10] [SymPy](https://github.com/ShadarRim/dc2024/blob/main/10_SymPy.ipynb) \
+[11] [Разбор демоварианта Я-профи по ИИ](https://github.com/ShadarRim/dc2024/blob/main/11_%D0%AF_%D0%BF%D1%80%D0%BE%D1%84%D0%B8_2024_(%D0%B4%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%98%D0%98).ipynb)
 
 # Дополнительный материалы
 [0] [Как установить среду для Python](https://github.com/ShadarRim/dc2024/blob/main/a00_python_installation_guide.pdf) \
